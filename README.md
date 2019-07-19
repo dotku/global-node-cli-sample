@@ -15,3 +15,6 @@ You should see something like
 $ global-node-cli-sample
 hello, world! by global node cli sample
 ```
+
+## Future Reading
+https://blog.developer.atlassian.com/scripting-with-node/
