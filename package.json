@@ -1,0 +1,11 @@
+{
+  "name": "global-node-cli-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "global-node-cli-sample": "./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
