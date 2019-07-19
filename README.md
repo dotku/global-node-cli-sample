@@ -1,2 +1,2 @@
-# global-cli-sample
+# Global Node Cli Tool
 A sample for global node tool
