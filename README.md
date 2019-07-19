@@ -12,6 +12,6 @@ global-node-cli-sample
 You should see something like
 
 ```bash
-LM-C02W4285HTDF:global-node-cli-sample jay.lin$ global-node-cli-sample
+$ global-node-cli-sample
 hello, world! by global node cli sample
 ```
